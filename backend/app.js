@@ -272,7 +272,7 @@ app.post("/sendmail", async (req, res) => {
           service: "gmail",
           secure: true,
           auth: {
-               user: "chinchejay@gmail.com",
+               user: "srushtichopade2020@gmail.com",
                   pass: "xtqf ftin fnvq rgqp"
           },
       });
